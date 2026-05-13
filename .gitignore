@@ -1,0 +1,7 @@
+/authoring/platform/obj
+/authoring/platform/bin
+/authoring/platform/lib/Sitecore.ExperienceEdge.Connector.Abstraction.dll
+/authoring/platform/lib/Sitecore.ExperienceEdge.Connector.Abstraction.xml
+/authoring/platform/lib/Sitecore.ExperienceEdge.Connector.ContentHubDelivery.dll
+/authoring/platform/lib/Sitecore.ExperienceEdge.Connector.ContentHubDelivery.xml
+/authoring/platform/.vs
