@@ -1,0 +1,12 @@
+{
+  "renderingHosts": {
+    "nextjs": {
+      "path": "./nextjs",
+      "nodeVersion": "20.x",
+      "jssDeploymentSecret": "replace-with-your-secret",
+      "command": "npm run build",
+      "args": [],
+      "type": "vercel"
+    }
+  }
+}
